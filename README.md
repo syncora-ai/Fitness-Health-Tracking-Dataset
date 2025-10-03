@@ -33,7 +33,7 @@ This dataset contains **wearable fitness and biometric data**, modeled on device
 ## 📦 What's Inside
 
 - **Dataset CSV** – Contains all wearable metrics and activity labels  
-  [⬇️ Download Dataset](#)  
+  [⬇️ Download Dataset](https://github.com/syncora-ai/Wearable-Activity-Dataset/blob/main/wearables_monitoring_data.csv)  
 
 - **Jupyter Notebook** – Explore and analyze dataset  
   [📓 Open Notebook](#)  
