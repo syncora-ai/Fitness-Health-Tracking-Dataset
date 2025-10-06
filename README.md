@@ -36,7 +36,7 @@ This dataset contains **wearable fitness and biometric data**, modeled on device
   [⬇️ Download Dataset](https://github.com/syncora-ai/Wearable-Activity-Dataset/blob/main/wearables_monitoring_data.csv)  
 
 - **Jupyter Notebook** – Explore and analyze dataset  
-  [📓 Open Notebook](#)  
+  [📓 Open Notebook](https://github.com/syncora-ai/Fitness-Health-Tracking-Dataset/blob/main/apple_watch_fitbit_data_synthetic%20(1).ipynb)  
 
 ---
 
